@@ -1,0 +1,16 @@
+.Header {
+  text-align: center;
+}
+
+.Text {
+  text-align: left;
+}
+
+.Button {
+  margin-left: 43%;
+}
+
+.Link {
+  text-decoration: none;
+  color: white;
+}
